@@ -7,6 +7,6 @@ more information can be found in [readme.txt](https://drive.google.com/file/d/1x
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
 
 We were required to: 
-1. use [traininingdata.txt]() as training data to build your machine learning models;
-2. use [testdata.txt]() to evaluate the model performance; and 
+1. use [traininingdata.txt](https://drive.google.com/file/d/1M5vkA67F1eVfJVMnDFEnOXZN65GRBoB9/view?usp=sharing) as training data to build your machine learning models;
+2. use [testdata.txt](https://drive.google.com/file/d/1M5vkA67F1eVfJVMnDFEnOXZN65GRBoB9/view?usp=sharing) to evaluate the model performance; and 
 3. implement at least 3 different machine learning (classification) algorithms, comparing their performance. 
